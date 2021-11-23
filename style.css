@@ -1,0 +1,49 @@
+body{
+    background-image:url("background2.gif");
+    background-position: center;
+    background-size: cover;
+}
+
+#button{
+    font-size: 30px;
+}
+
+image{
+    width: 250px;
+    height: 250px;
+}
+#sound{
+    width: 150px;
+    height: 150px;
+}
+
+.div_1{
+    background-color:aquamarine;
+}
+
+.footer_div{
+    position:fixed;
+    bottom:0;
+    text-align: center;
+    background-color:red;
+    width:100%;
+    color:blue;
+font-size: 25px;
+    text-shadow: 2px 2px yellow;
+    
+}
+
+.heading{
+    font-family: 'Montagu Slab', serif;
+}
+
+#h1{
+    color:orange;
+}
+
+#label{
+    color: orange;
+}
+h3{
+    color: orange;
+}
