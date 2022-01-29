@@ -1,49 +1,39 @@
-body{
-    background-image:url("background2.gif");
-    background-position: center;
-    background-size: cover;
+body
+{
+  color: white;
+  background-color: lightgreen;
 }
-
-#button{
-    font-size: 30px;
+span
+{
+  font-size: 30px;
 }
-
-image{
-    width: 250px;
-    height: 250px;
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
 }
-#sound{
-    width: 150px;
-    height: 150px;
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
 }
-
-.div_1{
-    background-color:aquamarine;
+.emotion_name
+{
+  font-size: 40px;
 }
-
-.footer_div{
-    position:fixed;
-    bottom:0;
-    text-align: center;
-    background-color:red;
-    width:100%;
-    color:blue;
-font-size: 25px;
-    text-shadow: 2px 2px yellow;
-    
+.emoji
+{
+  font-size:48px;
 }
-
+ 
 .heading{
-    font-family: 'Montagu Slab', serif;
+  font-size: 48px;
 }
 
-#h1{
-    color:orange;
+.prediction{
+  background-color:firebrick;
 }
 
-#label{
-    color: orange;
-}
-h3{
-    color: orange;
+.h3{
+    color: black;
 }
